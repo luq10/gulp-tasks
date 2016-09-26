@@ -1,0 +1,20 @@
+{
+  "name": "jz-gulp",
+  "version": "0.1.0",
+  "description": "",
+  "author": "lukasz.salajczyk@jazzy.pro",
+  "main": "./index.js",
+  "devDependencies": {
+    "eslint": "^3.5.0",
+    "eslint-config-node-style-guide": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-eslint": "^3.0.1",
+    "gulp-if": "^2.0.1",
+    "gulp-imagemin": "^3.0.3",
+    "gulp-sass": "^2.3.2",
+    "imagemin-pngquant": "^5.0.0",
+    "lodash": "^4.16.1",
+    "run-sequence": "^1.2.2"
+  }
+}

@@ -1,0 +1,10 @@
+@import "varibles";
+
+body {
+  background: red;
+
+  h1 {
+    color: $base-text;
+    transition: .3s all ease-in-out;
+  }
+}

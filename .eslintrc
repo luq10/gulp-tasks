@@ -1,0 +1,12 @@
+{
+//  "extends": "node-style-guide",
+  "env": {
+    "es6": true
+  },
+  "rules": {
+    "max-len": [1, 160],
+    "keyword-spacing": ["error", {"before": true, "after": true}],
+//    "space-after-keywords": "off",
+    "brace-style": ["error", "stroustrup"]
+  }
+}
